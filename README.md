@@ -1,5 +1,22 @@
 # STEDI Human Balance Analytics – AWS Data Engineering Project
 
+<p align="center">
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-Studio-yellow)
+![Amazon Athena](https://img.shields.io/badge/Amazon-Athena-232F3E?logo=amazonaws)
+![Amazon S3](https://img.shields.io/badge/Amazon-S3-red?logo=amazonaws)
+![PySpark](https://img.shields.io/badge/PySpark-Apache%20Spark-E25A1C?logo=apachespark)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=postgresql)
+![ETL](https://img.shields.io/badge/ETL-Pipeline-success)
+![Data Lake](https://img.shields.io/badge/Data-Lake-Architecture-0096D6)
+![AWS Glue Catalog](https://img.shields.io/badge/Glue-Catalog-purple)
+![Data Engineering](https://img.shields.io/badge/Data-Engineering-brightgreen)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-success)
+![Project](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+</p>
+
 An end-to-end AWS Data Engineering project that builds a scalable ETL pipeline using **AWS Glue Studio**, **Amazon S3**, **AWS Glue Data Catalog**, **Amazon Athena**, **PySpark**, and **SQL**. The project transforms raw sensor and customer data into curated datasets for machine learning while maintaining customer privacy.
 
 ---
